@@ -15,9 +15,6 @@ public class MainMenuController : MonoBehaviour
     public GameObject GameSettingsPanel1;
     public GameController gameController;
 
-    public GameObject blackMarker;
-    public GameObject whiteMarker;
-
     private void Start()
     {
         gameObject.SetActive(true);
